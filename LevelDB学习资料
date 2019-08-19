@@ -1,0 +1,13 @@
+既生 Redis 何生 LevelDB ？
+https://juejin.im/post/5c22e049e51d45206d12568e
+
+LevelDB 入门 —— 全面了解 LevelDB 的功能特性
+https://juejin.im/post/5c2778aee51d4522ec5a1f01
+
+鸿篇巨制 —— LevelDB 的整体架构
+https://juejin.im/post/5c36ad6051882525616db7fa
+
+深入 LevelDB 数据文件 SSTable 的结构
+https://juejin.im/post/5c6a7923518825620677c2b4
+
+https://leveldb-handbook.readthedocs.io/zh/latest/compaction.html#minor-compaction
